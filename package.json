@@ -1,5 +1,9 @@
 {
+  "name"  : "valrok",
+  "company": "Valrok ApS",
+  "email" : "support@valrokgames.com",
+  "url"   : "https://valrokgames.com/",
   "release": {
-    "branches": ["master", "next"]
+    "branches": ["master"]
   }
 }
