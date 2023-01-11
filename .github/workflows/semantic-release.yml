@@ -1,10 +1,7 @@
 name: Semantic-release
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    types: [opened, reopened]
+  push: {}
 
 jobs:
   semantic-release:
